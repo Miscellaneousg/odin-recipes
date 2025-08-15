@@ -1,16 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <link rel="stylesheet" href="./styles.css">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Odin Recepies Home</title>
     </head>
     <body>
-        <h1>Odin Recipes</h1>
-        <ul>
-            <li><a href="./recipes/wdosa.html">Wheat Dosa.</a></li>
-            <li><a href="./recipes/idli.html">Idli.</a></li>
-            <li><a href="./recipes/basmati.html">Basmati Rice.</a></li>
-        </ul>
+        <div class="main">
+            <h1>Odin Recipes</h1>
+            <div class="lists">
+                <div class="l1">
+                    <h2 class="south">South Indian</h2>
+                    <ul>
+                        <li><button role="link" onclick="location.href='./recipes/wdosa.html'"><strong>Wheat Dosa</strong></button><em> Thin, crispy wheat pancake</em></li>
+                        <li><button role="link" onclick="location.href='./recipes/idli.html'"><strong><em>Idli</em></strong></button><em> Soft, fluffy steamed rice cakes</em></li>
+                    </ul>
+                </div>
+                <div class="l2">
+                    <h2 class="north">North Indian</h2>
+                    <ul>
+                        <li><button role="link" onclick="location.href='./recipes/basmati.html'"><strong>Basmati Rice</strong></button><em> Long-grain, fragrant white rice</em></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </body>
 </html>
