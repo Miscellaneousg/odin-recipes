@@ -1,0 +1,92 @@
+html{
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+}
+body{
+    background-color:#332E44;
+    font-family: "Times New Roman", Serif, sans-serif, Monospace;
+}
+.main{
+    outline: 1px solid black;
+    background-color: #2D2C2E;
+    padding: 20px;
+    min-width: 100vh;
+    border-radius: 10px;
+    margin: 10px auto ;
+}
+.header{
+    display: flex;
+    gap:10px;
+}
+button{
+    border:5px solid black;
+    background-color: #c2b7ff;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+h1{
+    flex:1;
+    border: 1px solid black;
+    background-color: #404040;
+    color: #c2b7ff;
+    text-align: center;
+    margin: 10px 0;
+    padding:10px;
+    border-radius: 10px;
+}
+.image{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color:#404040;
+    display: flex;
+    margin:10px 0;
+}
+img{
+    background-color: #c2b7ff;
+    border-radius: 10px 0 0 10px;
+    padding: 10px;
+}
+.info{
+    border-left: 1px solid black;
+    flex:1;
+    padding: 10px;
+}
+p{
+    color: white;
+}
+h2{
+    color: black;
+    border: 1px solid black;
+    background-color: grey;
+    text-align: center;
+    margin-top:0;
+    border-radius: 10px;
+    padding: 5px;
+}
+.lists{
+    color: white;
+    background-color: #404040;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+}
+.ls1{
+    flex:1;
+}
+.ls2{
+    flex:1;
+}
+strong{
+    color:#c2b7ff
+}
+button strong{
+    color: black;
+}
