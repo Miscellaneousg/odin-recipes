@@ -1,6 +1,7 @@
 # Odin Recipes
 
 >  You can view the latest deployment's on github pages  [Here](https://miscellaneousg.github.io/odin-recipes/).
+
 >  Template is included [^1] (only of recipes html).
 
 >Need more information? [ask me](https://github.com/Miscellaneousg/odin-recipes/discussions/categories/ask-me).
