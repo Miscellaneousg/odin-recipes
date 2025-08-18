@@ -23,7 +23,7 @@ h1{
     color: #c2b7ff;
     display: block;
     text-align: center;
-    border:black solid;
+    border:1px #c2b7ff solid;
     border-radius:10px;
     background-color: #404040;
     padding: 10px;
@@ -44,7 +44,7 @@ ul {
 .l2{
     background-color: #404040;
     padding: 15px;
-    border: 1px solid black;
+    border: 1px solid #c2b7ff;
     border-radius: 10px;
     flex: 1;                 
     margin:10px;
