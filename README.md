@@ -1,12 +1,16 @@
 # Odin Recipes
 
->  You can view the latest deployment's on github pages  [Here](https://miscellaneousg.github.io/odin-recipes/).
+A recipe website featuring Indian dishes with ingredients, cooking steps, and final dish image. For more information head over to [The Odin Project.](https://www.theodinproject.com/lessons/foundations-recipes)
+You can view the latest deployment on GitHub Pages [here](https://miscellaneousg.github.io/odin-recipes/).
 
->  Template is included [^1] (only of recipes html).
+> [!NOTE]
+>Added a file(html of recipe page) as template(without specific recipe content) in the  [`template/`](https://github.com/Miscellaneousg/odin-recipes/blob/main/template) folder.
+If you're following [**The Odin Project**](https://www.theodinproject.com/), feel free to review and tweak it for your own recipes.
 
->Need more information? [ask me](https://github.com/Miscellaneousg/odin-recipes/discussions/categories/ask-me).
+## Questions
 
->==Credits== for more such recipes visit [allrecipes](https://www.allrecipes.com/)
+Need more information? [Ask me](https://github.com/Miscellaneousg/odin-recipes/discussions/categories/ask-me) on GitHub Discussions .
 
-[^1]: **Template for Learners**, included a **personal template** for recipe pages in the [`template/`](https://github.com/Miscellaneousg/odin-recipes/blob/main/template) folder.  
-If you’re following **The Odin Project**, feel free to review, tweak it for your own recipes.
+---
+> [!IMPORTANT]
+>For more such recipes visit [AllRecipes](https://www.allrecipes.com/).
